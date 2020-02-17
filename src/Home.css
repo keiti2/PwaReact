@@ -1,0 +1,10 @@
+.section img {
+    widows: 1px;
+}
+
+.card {
+    width: 18rem;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}

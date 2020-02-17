@@ -5,6 +5,7 @@ import './Sobre.css';
 const Sobre: React.FC = () => (
   
   <div className="container">
+      <br></br>
     <h2><p className="text-center">Sobre</p></h2>
   
 <div className="container section">
